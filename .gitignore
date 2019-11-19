@@ -1,4 +1,6 @@
 # Package Files #
+*.[oa]
+*~
 *.jar
 *.war
 *.nar
